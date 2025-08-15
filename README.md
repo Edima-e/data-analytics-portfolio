@@ -15,12 +15,12 @@ Passionate about turning data into actionable insights. Skilled in Python, SQL, 
 
 2. **Supply Chain Dashboard**  
    *Excel dashboard to optimize order fulfillment and reduce backlogs.*  
-   [View Project](link-to-your-repo)
+   [View Project](https://github.com/Edima-e/Supply_Chain_Dashboard/tree/main)
 
 3. **Healthcare Predictive Model**  
-   *Machine learning model predicting patient test outcomes using Python.*  
-   [View Project](link-to-your-repo)
+   *Machine learning model classifying breast cancer types using Python.*  
+   [View Project](https://github.com/Edima-e/Breast_Cancer_Classification_using_Machine_Learning)
 
 ### 📫 Contact
 - Email: edimaeniola@gmail.com
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/edima-ekanem-465913184/)]

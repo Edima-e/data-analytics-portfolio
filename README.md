@@ -11,7 +11,7 @@ Passionate about turning data into actionable insights. Skilled in Python, SQL, 
 ### 📂 Featured Projects
 1. **Netflix EDA Analysis**  
    *Explored Netflix dataset to uncover trends in genres, release patterns, and durations.*  
-   [View Project]([link-to-your-repo](https://github.com/Edima-e/netflix-eda-analysis/tree/main))
+   [View Project](https://github.com/Edima-e/netflix-eda-analysis/tree/main)
 
 2. **Supply Chain Dashboard**  
    *Excel dashboard to optimize order fulfillment and reduce backlogs.*  
